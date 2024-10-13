@@ -1,1 +1,1 @@
-On recode la fonction printf en c. On ne gere pas les tampons.
+"For this project, students must recode the printf function from the standard library. They will then be able to use again it in their future projects. This project mainly focuses on variable-length arguments."
